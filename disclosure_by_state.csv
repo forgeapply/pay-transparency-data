@@ -1,0 +1,50 @@
+state_code,state_name,posting_law,law_effective_year,employer_size_threshold,live_postings,postings_with_pay,disclosure_pct
+CO,"Colorado",yes,2021,"1+",2175,1027,47.2
+CA,"California",yes,2023,"15+",18318,8414,45.9
+NY,"New York",yes,2023,"4+",8159,3586,44.0
+MN,"Minnesota",yes,2025,"30+",1749,730,41.7
+IL,"Illinois",yes,2025,"15+",3736,1529,40.9
+WA,"Washington",yes,2023,"15+",3185,1248,39.2
+MA,"Massachusetts",yes,2025,"25+",4464,1676,37.5
+DC,"District of Columbia",yes,2024,"1+",1171,435,37.1
+NJ,"New Jersey",yes,2025,"10+",1778,636,35.8
+VT,"Vermont",yes,2025,"5+",129,44,34.1
+VA,"Virginia",no,,"",3241,1100,33.9
+DE,"Delaware",no,,"",603,178,29.5
+AR,"Arkansas",no,,"",386,108,28.0
+MD,"Maryland",yes,2024,"all covered postings",2484,693,27.9
+OR,"Oregon",no,,"",1320,355,26.9
+ND,"North Dakota",no,,"",128,34,26.6
+CT,"Connecticut",no,,"",1354,309,22.8
+HI,"Hawaii",yes,2024,"50+",256,56,21.9
+NM,"New Mexico",no,,"",312,67,21.5
+AL,"Alabama",no,,"",894,191,21.4
+TX,"Texas",no,,"",8922,1781,20.0
+AZ,"Arizona",no,,"",2073,411,19.8
+OK,"Oklahoma",no,,"",482,95,19.7
+UT,"Utah",no,,"",900,162,18.0
+ID,"Idaho",no,,"",193,34,17.6
+ME,"Maine",no,,"",476,81,17.0
+NV,"Nevada",no,,"",726,123,16.9
+NC,"North Carolina",no,,"",2875,484,16.8
+TN,"Tennessee",no,,"",2099,350,16.7
+GA,"Georgia",no,,"",2917,473,16.2
+FL,"Florida",no,,"",4617,688,14.9
+OH,"Ohio",no,,"",2837,399,14.1
+KY,"Kentucky",no,,"",838,115,13.7
+MS,"Mississippi",no,,"",465,59,12.7
+LA,"Louisiana",no,,"",519,64,12.3
+WI,"Wisconsin",no,,"",2996,366,12.2
+MO,"Missouri",no,,"",1680,199,11.8
+PA,"Pennsylvania",no,,"",4159,484,11.6
+IN,"Indiana",no,,"",1552,176,11.3
+WV,"West Virginia",no,,"",237,22,9.3
+SC,"South Carolina",no,,"",1824,163,8.9
+MI,"Michigan",no,,"",4121,362,8.8
+NH,"New Hampshire",no,,"",501,39,7.8
+IA,"Iowa",no,,"",692,53,7.7
+KS,"Kansas",no,,"",1008,74,7.3
+RI,"Rhode Island",no,,"",604,41,6.8
+SD,"South Dakota",no,,"",428,20,4.7
+NE,"Nebraska",no,,"",879,36,4.1
+MT,"Montana",no,,"",459,16,3.5
